@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T17:46:35.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shaderClass.h",
+              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\shaderClass.h",
+              "RelativeDocumentMoniker": "shaderClass.h",
+              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\shaderClass.h",
+              "RelativeToolTip": "shaderClass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T18:27:56.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VBO.h",
+              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VBO.h",
+              "RelativeDocumentMoniker": "VBO.h",
+              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VBO.h",
+              "RelativeToolTip": "VBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T18:27:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VAO.h",
+              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VAO.h",
+              "RelativeDocumentMoniker": "VAO.h",
+              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VAO.h",
+              "RelativeToolTip": "VAO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T18:27:54.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EBO.h",
+              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\EBO.h",
+              "RelativeDocumentMoniker": "EBO.h",
+              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\EBO.h",
+              "RelativeToolTip": "EBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T18:27:56.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "default.vert",
+              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-26T18:28:24.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "default.frag",
+              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-26T18:28:13.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
