@@ -50,8 +50,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T17:46:35.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T17:46:35.354Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "shaderClass.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T18:27:56.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:27:56.391Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "VBO.h",
               "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VBO.h",
               "RelativeToolTip": "VBO.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-26T18:27:55.702Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "VAO.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T18:27:54.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:27:54.933Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "EBO.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T18:27:56.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:27:56.947Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "default.vert",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-26T18:28:24.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:28:24.118Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "default.frag",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-26T18:28:13.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T18:28:13.425Z"
             }
           ]
         }
