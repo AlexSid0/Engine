@@ -1,0 +1,14 @@
+﻿  EBO.cpp
+  main.cpp
+C:\Users\sidor\Downloads\Engine-main\main.cpp(59,6): error C2065: 'window': undeclared identifier
+C:\Users\sidor\Downloads\Engine-main\main.cpp(66,25): error C2065: 'window': undeclared identifier
+C:\Users\sidor\Downloads\Engine-main\main.cpp(113,32): error C2065: 'window': undeclared identifier
+C:\Users\sidor\Downloads\Engine-main\main.cpp(124,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\sidor\Downloads\Engine-main\main.cpp(155,19): error C2065: 'window': undeclared identifier
+C:\Users\sidor\Downloads\Engine-main\main.cpp(167,20): error C2065: 'window': undeclared identifier
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\sidor\Downloads\Engine-main\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp

@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\",
+  "WorkspaceRootPath": "C:\\Users\\sidor\\Downloads\\Engine-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\default.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:default.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|C:\\Users\\sidor\\Downloads\\Engine-main\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBE28BC2-070F-46E7-B16D-DF3989EB7204}|Engine.vcxproj|solutionrelative:EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,52 +54,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T17:46:35.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "shaderClass.h",
-              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\shaderClass.h",
-              "RelativeDocumentMoniker": "shaderClass.h",
-              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\shaderClass.h",
-              "RelativeToolTip": "shaderClass.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T18:27:56.391Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VBO.h",
-              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VBO.h",
-              "RelativeDocumentMoniker": "VBO.h",
-              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VBO.h",
-              "RelativeToolTip": "VBO.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T18:27:55.702Z",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAAHEAAAAAAAAAzEwwwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T17:46:35.354Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "EBO.cpp",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\EBO.cpp",
+              "RelativeDocumentMoniker": "EBO.cpp",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\EBO.cpp",
+              "RelativeToolTip": "EBO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T16:36:37.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VBO.cpp",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\VBO.cpp",
+              "RelativeDocumentMoniker": "VBO.cpp",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\VBO.cpp",
+              "RelativeToolTip": "VBO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T16:36:32.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.frag",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\default.frag",
+              "RelativeDocumentMoniker": "default.frag",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\default.frag",
+              "RelativeToolTip": "default.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-26T18:28:13.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "VAO.h",
-              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VAO.h",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\VAO.h",
               "RelativeDocumentMoniker": "VAO.h",
-              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\VAO.h",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\VAO.h",
               "RelativeToolTip": "VAO.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -91,11 +119,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "VAO.cpp",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\VAO.cpp",
+              "RelativeDocumentMoniker": "VAO.cpp",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\VAO.cpp",
+              "RelativeToolTip": "VAO.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T16:36:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "EBO.h",
-              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\EBO.h",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\EBO.h",
               "RelativeDocumentMoniker": "EBO.h",
-              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\EBO.h",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\EBO.h",
               "RelativeToolTip": "EBO.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -103,27 +143,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "VBO.h",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\VBO.h",
+              "RelativeDocumentMoniker": "VBO.h",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\VBO.h",
+              "RelativeToolTip": "VBO.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T18:27:55.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shaderClass.h",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\shaderClass.h",
+              "RelativeDocumentMoniker": "shaderClass.h",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\shaderClass.h",
+              "RelativeToolTip": "shaderClass.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-26T18:27:56.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "default.vert",
-              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.vert",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\default.vert",
               "RelativeDocumentMoniker": "default.vert",
-              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.vert",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\default.vert",
               "RelativeToolTip": "default.vert",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-26T18:28:24.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "default.frag",
-              "DocumentMoniker": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.frag",
-              "RelativeDocumentMoniker": "default.frag",
-              "ToolTip": "D:\\Desktop\\Coding\\C\u002B\u002B\\Engine\\default.frag",
-              "RelativeToolTip": "default.frag",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-26T18:28:13.425Z"
+              "DocumentIndex": 2,
+              "Title": "shaderClass.cpp",
+              "DocumentMoniker": "C:\\Users\\sidor\\Downloads\\Engine-main\\shaderClass.cpp",
+              "RelativeDocumentMoniker": "shaderClass.cpp",
+              "ToolTip": "C:\\Users\\sidor\\Downloads\\Engine-main\\shaderClass.cpp",
+              "RelativeToolTip": "shaderClass.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T16:36:34.664Z"
             }
           ]
         }

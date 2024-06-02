@@ -1,2 +1,8 @@
-D:\Desktop\Coding\C++\Engine\glad.c;D:\Desktop\Coding\C++\Engine\Engine\x64\Debug\glad.obj
-D:\Desktop\Coding\C++\Engine\main.cpp;D:\Desktop\Coding\C++\Engine\Engine\x64\Debug\main.obj
+C:\Users\sidor\Downloads\Engine-main\EBO.cpp;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\EBO.obj
+C:\Users\sidor\Downloads\Engine-main\glad.c;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\glad.obj
+C:\Users\sidor\Downloads\Engine-main\main.cpp;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\main.obj
+C:\Users\sidor\Downloads\Engine-main\shaderClass.cpp;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\shaderClass.obj
+C:\Users\sidor\Downloads\Engine-main\stb.cpp;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\stb.obj
+C:\Users\sidor\Downloads\Engine-main\Texture.cpp;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\Texture.obj
+C:\Users\sidor\Downloads\Engine-main\VAO.cpp;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\VAO.obj
+C:\Users\sidor\Downloads\Engine-main\VBO.cpp;C:\Users\sidor\Downloads\Engine-main\Engine\x64\Debug\VBO.obj

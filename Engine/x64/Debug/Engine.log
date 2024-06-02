@@ -1,1 +1,3 @@
-﻿  Engine.vcxproj -> D:\Desktop\Coding\C++\Engine\x64\Debug\Engine.exe
+﻿  main.cpp
+C:\Users\sidor\Downloads\Engine-main\main.cpp(124,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Engine.vcxproj -> C:\Users\sidor\Downloads\Engine-main\x64\Debug\Engine.exe
