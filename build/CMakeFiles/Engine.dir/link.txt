@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/Engine.dir/main.cpp.o CMakeFiles/Engine.dir/src/glad.c.o -o Engine  libs/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
