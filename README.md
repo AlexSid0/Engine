@@ -30,19 +30,12 @@ git clone https://github.com/AlexSid0/Engine.git
 
 ## Building and Running
 
-1. Create a `build` directory and navigate into it:
+1. Run the following command to configure the project, compile it, and then run the executable:
 
     ```sh
-    mkdir build
-    cd build
+    sudo rm -rf build/ && mkdir build && cd build && cmake .. && make && ./Engine && cd ..
     ```
-
-2. Run the following command to configure the project, compile it, and then run the executable:
-
-    ```sh
-    cmake .. && make && ./Engine
-    ```
-3. For later execution of the executable:
+2. For later execution of the executable:
     ```sh
     ./Engine
     ```
